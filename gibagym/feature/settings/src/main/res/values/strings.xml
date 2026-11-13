@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="einstellungen_titel">Einstellungen</string>
+
+    <string name="einstellungen_quelle_titel">Datenquelle</string>
+    <string name="einstellungen_quelle_text">Bestimmt, woher die Messwerte kommen. Simulation und Aufzeichnung funktionieren ohne Hardware.</string>
+    <string name="einstellungen_quelle_simulation_detail">Synthetisches Signal mit Kontraktionen, Pausen und gelegentlich abgefälschten Wiederholungen.</string>
+    <string name="einstellungen_quelle_replay_detail">Aufgezeichneter Satz Bankdrücken, 8 Wiederholungen, davon 2 mit Schwung.</string>
+    <string name="einstellungen_quelle_ble_detail">Sensorband mit ESP32-S3 und DFRobot-EMG-Sensor (SEN0240) über Bluetooth LE. Anbindung in Arbeit.</string>
+
+    <string name="einstellungen_name_titel">Dein Name</string>
+    <string name="einstellungen_darstellung_titel">Darstellung</string>
+    <string name="einstellungen_palette">Farbskala</string>
+    <string name="einstellungen_palette_standard">Grün, Gelb, Rot</string>
+    <string name="einstellungen_palette_sicher">Blau, Orange</string>
+    <string name="einstellungen_palette_monochrom">Nur Helligkeit</string>
+    <string name="einstellungen_palette_eigen">Eigene Farben</string>
+    <string name="einstellungen_farbe_wenig">Wenig</string>
+    <string name="einstellungen_farbe_ziel">Im Ziel</string>
+    <string name="einstellungen_farbe_hoch">Zu hoch</string>
+    <string name="einstellungen_farben_aehnlich">Diese zwei Farben sind sich zu ähnlich.</string>
+    <string name="einstellungen_palette_hinweis" formatted="false">Farbe ist nie der einzige Hinweis: Füllhöhe und Zahl stehen immer daneben.</string>
+    <string name="einstellungen_palette_vorschau">Vorschau: Ruhe, Aufbau, im Ziel, zu hoch</string>
+
+    <string name="einstellungen_haptik_titel">Vibrationsfeedback</string>
+    <string name="einstellungen_haptik_text">Vibriert, wenn du den Zielbereich verlässt. Nützlich bei Übungen, bei denen du nicht aufs Display schauen kannst.</string>
+
+    <string name="einstellungen_latenz_titel">Latenzanzeige einblenden</string>
+    <string name="einstellungen_latenz_text">Zeigt im Training, wie viele Millisekunden zwischen Messung und Bild vergehen.</string>
+
+    <string name="einstellungen_glaettung_titel">Glättung</string>
+    <string name="einstellungen_glaettung_text">Stärkere Glättung beruhigt die Anzeige und verzögert sie. Genau dieser Zusammenhang wird in der Diplomarbeit vermessen.</string>
+    <string name="einstellungen_glaettung_verfahren">Verfahren</string>
+    <string name="einstellungen_glaettung_keine">Keine</string>
+    <string name="einstellungen_glaettung_rms">Gleitender RMS</string>
+    <string name="einstellungen_glaettung_ema">Exponentiell</string>
+    <string name="einstellungen_glaettung_median">Median</string>
+    <string name="einstellungen_glaettung_fenster">Fenster: %1$d Abtastwerte</string>
+    <string name="einstellungen_glaettung_verzoegerung">Rechnerische Verzögerung: %1$d ms von %2$d ms Budget</string>
+
+    <string name="einstellungen_datenschutz_titel">Daten</string>
+    <string name="einstellungen_datenschutz_text">GIBAGym speichert alles lokal auf diesem Gerät. Es gibt kein Konto, keine Anmeldung und keine Übertragung an einen Server.</string>
+    <string name="einstellungen_zuruecksetzen">Alles zurücksetzen</string>
+    <string name="einstellungen_zuruecksetzen_text">Name, Farben und selbst geschriebene Übungen werden gelöscht. Kniebeuge, Bankdrücken und die anderen Übungen bleiben.</string>
+    <string name="einstellungen_zuruecksetzen_frage">Wirklich bei null anfangen?</string>
+    <string name="einstellungen_zuruecksetzen_abbrechen">Abbrechen</string>
+
+</resources>

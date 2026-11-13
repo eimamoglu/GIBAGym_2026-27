@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        Das sichtbare Erscheinungsbild kommt vollständig aus Compose
+        (GibaGymTheme). Dieses XML-Theme existiert nur, weil Android beim Start
+        ein Theme braucht, bevor die erste Composition läuft.
+    -->
+    <style name="Theme.GibaGym" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#00658F</item>
+        <item name="android:windowBackground">#F6F9FC</item>
+    </style>
+
+</resources>

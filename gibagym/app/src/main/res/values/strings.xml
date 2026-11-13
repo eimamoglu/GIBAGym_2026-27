@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GIBAGym</string>
+
+    <string name="navigation_training">Training</string>
+    <string name="navigation_kalibrierung">Kalibrieren</string>
+    <string name="navigation_verlauf">Verlauf</string>
+    <string name="navigation_einstellungen">Mehr</string>
+
+</resources>

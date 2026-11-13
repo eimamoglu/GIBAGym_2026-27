@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="verlauf_titel">Verlauf</string>
+    <string name="verlauf_titel_deine">Deine Trainings</string>
+    <string name="verlauf_hallo">Hallo, %1$s</string>
+    <string name="verlauf_untertitel">Deine Trainingseinheiten</string>
+    <string name="verlauf_hinweis">Hier stehen abgeschlossene Trainings. Übungen wählst oder schreibst du selbst beim Training oder beim Kraft messen.</string>
+
+    <string name="verlauf_leer_titel">Noch keine Einheit aufgezeichnet</string>
+    <string name="verlauf_leer_text">Sobald du ein Training beendest, erscheint es hier. Die Daten bleiben auf diesem Gerät.</string>
+    <string name="verlauf_leer_aktion">Training starten</string>
+
+    <string name="verlauf_laedt">Einheiten werden geladen …</string>
+
+    <string name="verlauf_zusammenfassung_titel">Überblick</string>
+    <string name="verlauf_einheiten">%1$d Einheiten</string>
+    <string name="verlauf_saubere_quote">%1$d %% saubere Wiederholungen</string>
+
+    <string name="verlauf_wiederholungen">%1$d Wiederholungen · %2$d sauber</string>
+    <string name="verlauf_dauer">%1$d Minuten</string>
+    <string name="verlauf_aktivierung">Zielmuskel im Schnitt Stufe %1$d</string>
+    <string name="verlauf_ratio">Ø Verhältnis %1$s</string>
+    <string name="verlauf_quelle">Aufgezeichnet mit: %1$s</string>
+    <string name="verlauf_loeschen">Einheit löschen</string>
+
+    <string name="verlauf_datenschutz">Alle Einheiten liegen ausschließlich lokal auf diesem Gerät. Du kannst sie jederzeit einzeln oder komplett löschen.</string>
+    <string name="verlauf_alles_loeschen">Alle Daten löschen</string>
+
+</resources>

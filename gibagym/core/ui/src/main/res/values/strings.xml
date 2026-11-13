@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="muskel_brust">Brust</string>
+    <string name="muskel_trizeps">Trizeps</string>
+    <string name="muskel_bizeps">Bizeps</string>
+    <string name="muskel_schulter_vorne">Vordere Schulter</string>
+    <string name="muskel_latissimus">Latissimus</string>
+    <string name="muskel_rumpf">Rumpf</string>
+    <string name="muskel_gesaess">Gesäß</string>
+    <string name="muskel_oberschenkel_vorne">Oberschenkel vorne</string>
+    <string name="muskel_oberschenkel_hinten">Oberschenkel hinten</string>
+    <string name="muskel_wade">Wade</string>
+
+    <string name="rolle_zielmuskel">Zielmuskel</string>
+    <string name="rolle_hilfsmuskel">Hilfsmuskel</string>
+    <string name="rolle_beobachtung">Beobachtung</string>
+
+    <string name="guete_unbekannt">Signal wird geprüft</string>
+    <string name="guete_gut">Signal gut</string>
+    <string name="guete_verrauscht">Signal verrauscht</string>
+    <string name="guete_kein_kontakt">Kein Hautkontakt</string>
+    <string name="guete_hinweis_kein_kontakt">Elektrode sitzt nicht. Drücke sie fest an oder feuchte sie an.</string>
+    <string name="guete_hinweis_verrauscht">Das Signal rauscht. Prüfe, ob das Kabel frei liegt.</string>
+
+    <string name="urteil_sauber">Sauber</string>
+    <string name="urteil_abgefaelscht">Abgefälscht</string>
+    <string name="urteil_unsicher">Unsicher</string>
+    <string name="urteil_mit_vertrauen">%1$s · %2$d %% sicher</string>
+
+    <string name="hinweis_schwung">Du holst Schwung. Lass die Last langsamer ab und drücke ohne Ruck.</string>
+    <string name="hinweis_hilfsmuskel">Der Hilfsmuskel übernimmt. Nimm Gewicht runter und spüre den Zielmuskel.</string>
+    <string name="hinweis_asymmetrie">Links und rechts arbeiten unterschiedlich stark. Achte auf gleichmäßigen Druck.</string>
+    <string name="hinweis_zu_schnell">Die Wiederholung war sehr schnell. Zwei Sekunden nach oben, zwei nach unten.</string>
+    <string name="hinweis_unvollstaendige_spannung">Die Spannung bleibt unter dem Zielbereich. Etwas mehr Gewicht wäre sinnvoll.</string>
+
+    <string name="ratio_gut">Verhältnis passt</string>
+    <string name="ratio_grenzwertig">Grenzwertig</string>
+    <string name="ratio_hilfsmuskel_dominiert">Hilfsmuskel dominiert</string>
+    <string name="ratio_zu_wenig_last">Zu wenig Last für eine Aussage</string>
+
+    <string name="zone_zu_niedrig">Zu niedrig</string>
+    <string name="zone_im_ziel">Im Ziel</string>
+    <string name="zone_zu_hoch">Zu hoch</string>
+
+    <string name="quelle_simulation">Simulation</string>
+    <string name="quelle_aufzeichnung">Aufzeichnung</string>
+    <string name="quelle_wearable">Wearable</string>
+
+    <string name="verbindung_getrennt">Nicht verbunden</string>
+    <string name="verbindung_verbindet">Verbinde …</string>
+    <string name="verbindung_verbunden">Verbunden mit %1$s</string>
+    <string name="verbindung_nicht_implementiert">Die Wearable-Anbindung ist noch nicht fertig. Nutze solange Simulation oder Aufzeichnung.</string>
+    <string name="verbindung_bluetooth_aus">Bluetooth ist ausgeschaltet.</string>
+    <string name="verbindung_berechtigung_fehlt">Die App darf noch nicht auf Bluetooth zugreifen.</string>
+    <string name="verbindung_kein_geraet">Kein GIBAGym-Wearable in Reichweite.</string>
+    <string name="verbindung_aufzeichnung_unlesbar">Die Aufzeichnung konnte nicht gelesen werden.</string>
+
+    <string name="latenz_titel">Latenz</string>
+    <string name="latenz_wert">%1$d ms</string>
+    <string name="latenz_detail">jetzt %1$d ms · Ø %2$d ms · max %3$d ms</string>
+    <string name="latenz_im_budget">innerhalb des Budgets von %1$d ms</string>
+    <string name="latenz_ueber_budget">über dem Budget von %1$d ms</string>
+
+    <string name="prozent_mvc">Stufe %1$d</string>
+    <string name="prozent_mvc_beschreibung">%1$s: Stufe %2$d von 10, %3$s</string>
+
+    <string name="stufe_kurz">Stufe %1$d</string>
+    <string name="stufe_von_zehn">Stufe %1$d von 10</string>
+    <string name="stufe_beschreibung">%1$s: Stufe %2$d von 10, %3$d Prozent der Maximalkraft, %4$s</string>
+    <string name="skala_titel">Skala 1 bis 10</string>
+    <string name="skala_ziel">Ziel: Stufe %1$d bis %2$d</string>
+    <string name="skala_beschreibung">Aktivierungsskala von 1 bis 10, Zielbereich Stufe %1$d bis %2$d</string>
+
+    <string name="avatar_beschreibung">Körperansicht mit eingefärbten Muskelgruppen und Stufe 1 bis 10 je Muskel</string>
+    <string name="diagramm_beschreibung">Live-Verlauf der Muskelaktivität der letzten zwei Sekunden</string>
+
+    <string name="uebung_frage">Welche Übung?</string>
+    <string name="uebung_hinweis">Tippe die Übung an, die du machst. Die App erkennt sie nicht von allein.</string>
+    <string name="uebung_wechseln">Übung wählen</string>
+    <string name="uebung_fertig">Fertig</string>
+    <string name="uebung_eigene">Eigene Übung schreiben</string>
+    <string name="uebung_eigene_hint">Zum Beispiel Klimmzug</string>
+    <string name="uebung_vorlage">Ähnlich wie</string>
+    <string name="uebung_hinzufuegen">Übung merken</string>
+    <string name="uebung_loeschen">Übung löschen</string>
+
+</resources>

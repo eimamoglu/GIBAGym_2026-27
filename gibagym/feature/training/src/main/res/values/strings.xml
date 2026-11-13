@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="training_titel">Live-Training</string>
+    <string name="training_hallo">Hallo, %1$s</string>
+    <string name="training_einstellungen">Einstellungen öffnen</string>
+    <string name="training_starten">Training starten</string>
+    <string name="training_beenden">Training beenden</string>
+    <string name="training_uebung">Übung</string>
+    <string name="training_datenquelle">Datenquelle</string>
+    <string name="training_muskelaktivitaet">Muskelaktivität</string>
+    <string name="training_verlauf_titel">Verlauf Zielmuskel</string>
+    <string name="training_verlauf_hinweis">Letzte zwei Sekunden, Ziel Stufe %1$d bis %2$d</string>
+
+    <string name="training_ratio_titel">Zielmuskel gegen Hilfsmuskel</string>
+    <string name="training_ratio_wert">Verhältnis %1$s</string>
+    <string name="training_ratio_grenze">Grenze dieser Übung: %1$s</string>
+    <string name="training_ratio_ziel">Zielmuskel</string>
+    <string name="training_ratio_hilfe">Hilfsmuskel</string>
+
+    <string name="training_ki_titel">Bewertung der letzten Wiederholung</string>
+    <string name="training_ki_wartet">Noch keine Wiederholung erkannt. Leg los — die Bewertung erscheint nach der ersten vollständigen Wiederholung.</string>
+    <string name="training_ki_verfahren">Verfahren: %1$s</string>
+    <string name="training_wiederholungen">%1$d Wiederholungen, davon %2$d sauber</string>
+
+    <string name="training_nicht_kalibriert">Noch nicht gemessen. Die Stufen sind nur ein Richtwert.</string>
+    <string name="training_pausiert">Angehalten. Tippe auf „Training starten“.</string>
+    <string name="training_glaettung">Glättung verzögert die Anzeige um rund %1$d ms</string>
+
+    <string name="training_avatar_beschreibung">Körperansicht. %1$s auf Stufe %2$d von 10, %3$d Prozent der Maximalkraft, %4$s.</string>
+    <string name="training_stufe_titel">%1$s jetzt</string>
+    <string name="training_skala_titel">Skala 1 bis 10 je Muskel</string>
+    <string name="training_skala_text">Jede Stufe entspricht zehn Prozent der Maximalkraft. Füllhöhe, Farbe und Zahl zeigen dasselbe.</string>
+
+</resources>

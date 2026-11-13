@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="kalibrierung_titel">Kraft messen</string>
+    <string name="kalibrierung_hallo">Hallo, %1$s</string>
+    <string name="kalibrierung_untertitel">So fest wie du kannst, fünf Sekunden</string>
+
+    <string name="kalibrierung_erklaerung">Einmal so fest anspannen, wie du kannst. Dieser Wert wird Stufe 10. Danach zeigt die App alle Muskeln von 1 bis 10.</string>
+    <string name="kalibrierung_hinweis_sicherheit">Nicht die Luft anhalten. Wenn etwas zwickt, brich ab.</string>
+    <string name="kalibrierung_starten">Messung starten</string>
+    <string name="kalibrierung_abbrechen">Abbrechen</string>
+    <string name="kalibrierung_wiederholen">Noch einmal messen</string>
+    <string name="kalibrierung_uebernehmen">Werte übernehmen</string>
+
+    <string name="kalibrierung_countdown">Gleich geht es los: %1$d</string>
+    <string name="kalibrierung_countdown_hinweis">Position einnehmen und vorspannen.</string>
+
+    <string name="kalibrierung_aufnahme">Jetzt volle Spannung!</string>
+    <string name="kalibrierung_restzeit">Noch %1$d Sekunden</string>
+    <string name="kalibrierung_fortschritt">%1$d von %2$d Sekunden</string>
+    <string name="kalibrierung_ergebnis">Das ist Stufe 10</string>
+    <string name="kalibrierung_ergebnis_hinweis">Ab jetzt beziehen sich alle Anzeigen darauf. 1 ist wenig, 10 ist deine maximale Kraft.</string>
+    <string name="kalibrierung_stufe">Stufe %1$d</string>
+    <string name="kalibrierung_gespeichert">Referenz gespeichert. Du kannst mit dem Training beginnen.</string>
+    <string name="kalibrierung_weiter">Weiter zum Training</string>
+    <string name="kalibrierung_zu_schwach">Der gemessene Wert ist sehr niedrig. Prüfe den Sitz der Elektroden und miss noch einmal.</string>
+
+</resources>

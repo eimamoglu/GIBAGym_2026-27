@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="onboarding_titel">Erste Schritte</string>
+    <string name="onboarding_marke">GIBAGym</string>
+    <string name="onboarding_untertitel">Muskelfeedback in Echtzeit</string>
+    <string name="onboarding_logo">GIBAGym-Logo</string>
+    <string name="onboarding_schritt">Schritt %1$d von %2$d</string>
+    <string name="onboarding_weiter">Weiter</string>
+    <string name="onboarding_zurueck">Zurück</string>
+    <string name="onboarding_ueberspringen">Überspringen</string>
+    <string name="onboarding_fertig">Kalibrierung starten</string>
+
+    <string name="onboarding_schritt_willkommen">Willkommen</string>
+    <string name="onboarding_schritt_elektroden">Elektroden</string>
+    <string name="onboarding_schritt_verbinden">Sensor</string>
+    <string name="onboarding_schritt_kalibrieren">Kraftmessung</string>
+
+    <string name="onboarding_name_frage">Wie heißt du?</string>
+    <string name="onboarding_willkommen_titel">Willkommen bei GIBAGym</string>
+    <string name="onboarding_willkommen_titel_name">Willkommen, %1$s</string>
+    <string name="onboarding_willkommen_text">Die App zeigt dir beim Training, wie stark deine Muskeln arbeiten.</string>
+    <string name="onboarding_willkommen_merkmal1_titel">Live sehen</string>
+    <string name="onboarding_willkommen_merkmal1_text">Kleine Elektroden auf der Haut messen die Muskelarbeit.</string>
+    <string name="onboarding_willkommen_merkmal2_titel">Stufe 1 bis 10</string>
+    <string name="onboarding_willkommen_merkmal2_text">10 ist deine maximale Kraft. Die Zahl steht immer groß.</string>
+    <string name="onboarding_willkommen_merkmal3_titel">Sofort Bescheid</string>
+    <string name="onboarding_willkommen_merkmal3_text">Farbe, Balken und ein kurzes Vibrieren sagen, ob du im Ziel bist.</string>
+    <string name="onboarding_willkommen_datenschutz">Alle Messwerte bleiben auf diesem Gerät. Es gibt kein Benutzerkonto und keine Übertragung an einen Server.</string>
+
+    <string name="onboarding_elektroden_titel">Elektroden anlegen</string>
+    <string name="onboarding_elektroden_text">Je zwei Elektroden kommen in Faserrichtung auf den Muskelbauch, etwa zwei Fingerbreit auseinander. Die Haut muss sauber, trocken und fettfrei sein.</string>
+    <string name="onboarding_elektroden_schritt1_titel">Haut vorbereiten</string>
+    <string name="onboarding_elektroden_schritt1">Hautstelle mit Wasser reinigen und gut abtrocknen.</string>
+    <string name="onboarding_elektroden_schritt2_titel">Messelektroden kleben</string>
+    <string name="onboarding_elektroden_schritt2">Zwei Elektroden mit etwa zwei Zentimetern Abstand in Faserrichtung auf den Muskelbauch.</string>
+    <string name="onboarding_elektroden_schritt3_titel">Bezugselektrode setzen</string>
+    <string name="onboarding_elektroden_schritt3">Auf einen knochennahen Punkt, zum Beispiel das Schlüsselbein oder den Ellbogen.</string>
+    <string name="onboarding_elektroden_bild">Schematische Darstellung: zwei Messelektroden auf dem Muskelbauch, eine Bezugselektrode am Knochen</string>
+    <string name="onboarding_elektroden_legende_mess">Messelektroden</string>
+    <string name="onboarding_elektroden_legende_bezug">Bezugselektrode</string>
+
+    <string name="onboarding_verbinden_titel">Sensor verbinden</string>
+    <string name="onboarding_verbinden_text">Schalte das Sensorband ein und halte das Telefon in die Nähe. Solange die Hardware noch nicht fertig ist, kannst du die App mit simulierten Daten oder einer Aufzeichnung ausprobieren — alle Anzeigen funktionieren identisch.</string>
+    <string name="onboarding_hardware_titel">Das GIBAGym-Sensorband</string>
+    <string name="onboarding_hardware_mcu">ESP32-S3 Mikrocontroller</string>
+    <string name="onboarding_hardware_mcu_detail">Liest den Sensor mit 1 kHz aus und sendet per Bluetooth LE 5.0</string>
+    <string name="onboarding_hardware_sensor">DFRobot Gravity EMG-Sensor (SEN0240)</string>
+    <string name="onboarding_hardware_sensor_detail">Analoger Muskelsensor mit Vorverstärkung, ein Kanal je Muskel</string>
+    <string name="onboarding_hardware_funk">Bluetooth LE, verschlüsselt</string>
+    <string name="onboarding_hardware_funk_detail">AES-128-Verschlüsselung, keine Cloud, keine Registrierung</string>
+    <string name="onboarding_verbinden_auswahl">Datenquelle für den Start</string>
+    <string name="onboarding_quelle_simulation_detail">Erzeugte Signale — sofort startklar, ohne Hardware</string>
+    <string name="onboarding_quelle_aufzeichnung_detail">Echte Messdaten aus einer gespeicherten Aufzeichnung</string>
+    <string name="onboarding_quelle_wearable_detail">Sensorband über Bluetooth LE — Anbindung in Arbeit</string>
+    <string name="onboarding_quelle_gewaehlt">Ausgewählt</string>
+
+    <string name="onboarding_kalibrieren_titel">Kraft messen</string>
+    <string name="onboarding_kalibrieren_text">Zum Schluss misst die App einmal deine Kraft. Dieser Wert ist ab dann Stufe 10. Die Messung dauert fünf Sekunden.</string>
+    <string name="onboarding_kalibrieren_ablauf1">Position einnehmen und Elektroden prüfen</string>
+    <string name="onboarding_kalibrieren_ablauf2">Fünf Sekunden so fest wie möglich anspannen</string>
+    <string name="onboarding_kalibrieren_ablauf3">Fertig — dieser Wert ist ab jetzt Stufe 10</string>
+    <string name="onboarding_kalibrieren_hinweis">Du kannst die Kalibrierung später jederzeit wiederholen, zum Beispiel wenn du die Elektroden anders klebst.</string>
+
+</resources>
